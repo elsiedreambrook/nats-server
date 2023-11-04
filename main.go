@@ -66,7 +66,7 @@ Authorization Options:
 
 TLS Options:
         --tls                        Enable TLS, do not verify clients (default: false)
-        --tlscert <file>             Server certificate file
+        --tlscert <file>             Server certificate
         --tlskey <file>              Private key for server certificate
         --tlsverify                  Enable TLS, verify client certificates
         --tlscacert <file>           Client certificate CA for verification
